@@ -76,7 +76,7 @@ export default function Footer() {
             <Link href="#" className="hover:text-white transition-colors">Privacy Policy</Link>
           </div>
           <div className="mt-4 md:mt-0 text-gray-500">
-            Design by <span className="text-gray-400 hover:text-white hover:underline transition-colors">vutranpk</span>
+            Design by <span className="text-gray-400 hover:text-white hover:underline transition-colors">Hubcom</span>
           </div>
         </div>
       </div>
