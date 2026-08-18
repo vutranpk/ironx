@@ -82,7 +82,7 @@ export default function HeroSection() {
             muted 
             playsInline 
             className="w-full h-full object-cover"
-            src="/hero.mp4"
+            src="/ironx/hero.mp4"
           />
         </motion.div>
       </motion.div>
